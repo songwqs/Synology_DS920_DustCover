@@ -1,5 +1,5 @@
-# Synology_DS918_DustCover
-Synology DS918 DustCover 3Dprint Model <br>
+
+Synology DS918/DS920 DustCover 3Dprint Model <br>
 DS918+ 和ds920+ 通用的防尘塞
 <br>
 Only for DS918+ 
