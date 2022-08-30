@@ -1,6 +1,6 @@
 
 Synology DS918/DS920 DustCover 3Dprint Model <br>
-DS918+ 和ds920+ 通用的防尘塞
+DS918+ 和ds920+ 通用的防尘面板
 <br>
 Only for DS918+ 
 ![3DModel](https://github.com/OptiD99/Synology_DS918_DustCover/blob/master/Img/3DModel.jpg)
